@@ -1,0 +1,7 @@
+{
+  "name": "pokefusion",
+  "version": "0.0.0",
+  "timeout": 10000,
+  "build": "faaslang",
+  "connector": true
+}
