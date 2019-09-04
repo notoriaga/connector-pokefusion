@@ -5,11 +5,11 @@ Welcome to the Pokefusion Connector API Example! We'll use this repository as a 
 new **Connector APIs**, or APIs that appear as a part of the [Build on Standard Library](https://build.stdlib.com/)
 user interface. As an example, once complete and shipped to production, your API will appear in the *actions* list.
 
-<img src="./example/actions-example-3.png" width="192">
+<img src="./example/actions-example-3.png" width="400">
 
 Which we can use to build things like Slack workflows that produce output like:
 
-<img src="./example/pokefusion-result-1.png" width="192">
+<img src="./example/pokefusion-result-1.png" width="400">
 
 ## This README
 
@@ -39,14 +39,14 @@ You can deploy this API instantly using the **Deploy on Standard Library** butto
 
 From here, you'll be brought to a screen that looks like this:
 
-<img src="./example/connector-pokefusion-1.png" width="192">
+<img src="./example/connector-pokefusion-1.png" width="400">
 
 
 Click **Generate Identity** to create an Identity Token for this API. This is a necessary step when deploying any Workflow or Connector APIs to Standard Library. This token securely stores API credentials and environment variables.
 
 The bottom of the screen will then change to:
 
-<img src="./example/connector-pokefusion-2.png" width="192">
+<img src="./example/connector-pokefusion-2.png" width="400">
 
 Click **Deploy Project** to proceed. That's it! You'll be forwarded to the project management page when the Connector is deployed. From here, you can edit individual endpoints or open the API on [Code on Standard Library](https://code.stdlib.com/) to edit the code that powers your API.
 
@@ -54,15 +54,15 @@ Click **Deploy Project** to proceed. That's it! You'll be forwarded to the proje
 
 Once deployed, you'll be brought to a project management page that looks like this:
 
-<img src="./example/manage-api-1.png" width="192">
+<img src="./example/manage-api-1.png" width="400">
 
 You can click **dev (click to manage)** to proceed to the endpoint summary for the dev environment you just deployed. You'll be brought to this screen:
 
-<img src="./example/manage-api-2.png" width="192">
+<img src="./example/manage-api-2.png" width="400">
 
 To modify your API code, click on **Edit Code** in the bottom right of the screen next to the endpoint. This will open up your code in [Code on Standard Library](https://code.stdlib.com).
 
-<img src="./example/manage-api-3.png" width="192">
+<img src="./example/manage-api-3.png" width="400">
 
 You can deploy updates to this code by clicking the **Blue *Up* Button** or **Green *Run* Button** after making modifications. It's that easy!
 
@@ -77,19 +77,19 @@ To accomplish this, go back to your first API management screen, usually availab
 `build.stdlib.com/projects/{user}/{api-name}` where `{user}` is your username and `{api-name}` is the API name,
 in this case, likely `pokefusion`.
 
-<img src="./example/manage-api-1.png" width="192">
+<img src="./example/manage-api-1.png" width="400">
 
 Click the **Green *Ship Release* Button**. You'll see this screen:
 
-<img src="./example/actions-example-1.png" width="192">
+<img src="./example/actions-example-1.png" width="400">
 
 Click **Generate Identity**, then once complete, **Create Release**. Your management screen will refresh once complete.
 
-<img src="./example/actions-example-2.png" width="192">
+<img src="./example/actions-example-2.png" width="400">
 
 Voila! Your release has been created. You can now head to [build.stdlib.com](https://build.stdlib.com), and search through available API actions. Your display name should be listed with your API:
 
-<img src="./example/actions-example-3.png" width="192">
+<img src="./example/actions-example-3.png" width="400">
 
 You can now use this Connector API in projects!
 
