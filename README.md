@@ -77,15 +77,15 @@ in this case, likely `pokefusion`.
 
 Click the **Green *Ship Release* Button**. You'll see this screen:
 
-![Manage Screen 1](./example/actions-example-1.png)
+![Example Screen 1](./example/actions-example-1.png)
 
 Click **Generate Identity**, then once complete, **Create Release**. Your management screen will refresh once complete.
 
-![Manage Screen 1](./example/actions-example-2.png)
+![Example Screen 2](./example/actions-example-2.png)
 
 Voila! Your release has been created. You can now head to [build.stdlib.com](https://build.stdlib.com), and search through available API actions. Your display name should be listed with your API:
 
-![Manage Screen 1](./example/actions-example-3.png)
+![Example Screen 3](./example/actions-example-3.png)
 
 You can now use this Connector API in projects!
 
