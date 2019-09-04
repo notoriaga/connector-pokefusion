@@ -15,7 +15,7 @@ This Pokefusion Connector API is a basic example of how to set up a Connector AP
 
 This sample API has one endpoint, `__main__.js` which accepts two parameters, `headPokemon` and `bodyPokemon` for generating random fused Pokemon based on [pokemon.alexonsager.net](https://pokemon.alexonsager.net/).
 
-### Deploying this Connector API
+## Deploying this Connector API
 
 You can deploy this API instantly using the **Deploy on Standard Library** button:
 
@@ -33,6 +33,6 @@ The bottom of the screen will then change to:
 
 Click **Deploy Project** to proceed. That's it! You'll be forwarded to the project management page when the Connector is deployed. From here, you can edit individual endpoints or open the API on [Code on Standard Library](https://code.stdlib.com/) to edit the code that powers your API.
 
-### Modifying this API
+## Modifying this API
 
-### Using this API
+## Using this API
