@@ -3,10 +3,13 @@
 
 Welcome to the Pokefusion Connector API Example! We'll use this repository as a basic template for creating
 new **Connector APIs**, or APIs that appear as a part of the [Build on Standard Library](https://build.stdlib.com/)
-user interface. As an example, once complete and shipped to production, your API will appear in the *actions* list,
-where the dropdown is active here:
+user interface. As an example, once complete and shipped to production, your API will appear in the *actions* list.
 
-![Build Screen 1](./example/build-stdlib-1.png)
+![Example Screen 3](./example/actions-example-3.png)
+
+Which we can use to build things like Slack workflows that produce output like:
+
+![Pokefusion Result](./example/pokefusion-result-1.png)
 
 ## This README
 
